@@ -208,6 +208,12 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{d084aba2-eb3d-4d76-9596-b758cec68516}</Project>
+      <Name>ClassLibrary1</Name>
+      <IsAppExtension>false</IsAppExtension>
+      <IsWatchApp>false</IsWatchApp>
+    </ProjectReference>
     <ProjectReference Include="..\..\Project\Project.csproj">
       <Project>{24cbcf8b-8e93-4f71-8d6d-3982642a0de4}</Project>
       <Name>Project</Name>
