@@ -5,6 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 using Microsoft.Azure.Mobile.Distribute;
+using Project;
 
 namespace App1.iOS
 {
